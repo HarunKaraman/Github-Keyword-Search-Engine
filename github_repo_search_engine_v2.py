@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 """
 Github Repo Search Engine
 
